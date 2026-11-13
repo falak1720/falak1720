@@ -2,10 +2,9 @@
 
 I'm a psychology student at **UW–Madison** who likes turning data into clear, reproducible write-ups.
 
-- 📊 Currently working on: short statistical reports in R + Quarto (chi-square, correlation, and more)
-- 🌱 Learning: [something you're learning, e.g. regression modeling, Git, data visualization]
-- 💬 Ask me about: [a topic you enjoy, e.g. research methods, R, cognitive psychology]
-- 📫 Reach me: [your preferred contact, e.g. LinkedIn URL or school email]
+Currently working on: short statistical reports in R + Quarto (chi-square, correlation, and more)
+
+Reach me: via email or Linkedin
 
 ### 🛠 Tools I use
 
