@@ -6,7 +6,7 @@ Currently working on: short statistical reports in R + Quarto (chi-square, corre
 
 Reach me: via email or Linkedin
 
-### 🛠 Tools I use
+### 🛠 Tools
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white)
