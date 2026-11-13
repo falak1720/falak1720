@@ -1,4 +1,4 @@
-## Hi, I'm Becks 👋
+## Hi, I'm falak 
 
 I'm a psychology student at **UW–Madison** who likes turning data into clear, reproducible write-ups.
 
