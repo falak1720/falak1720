@@ -1,6 +1,6 @@
 ## Hi, I'm falak 
 
-I'm a psychology student at **UW–Madison** who likes turning data into clear, reproducible write-ups.
+I'm a student at **UW–Madison** doing my masters in Data Science in Human Behavior.
 
 Currently working on: short statistical reports in R + Quarto (chi-square, correlation, and more)
 
