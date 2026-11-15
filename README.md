@@ -94,8 +94,7 @@
 </picture>
 
 ## 📂 Projects
-<br>
-<a href="https://falak1720.github.io/falak-portfolio/">falak-portfolio</a>
+<a href="https://falak1720.github.io/falak-portfolio/">falak-portfolio</a> is a dynamic version of my resume with links to my certificates and works.
 <br>
 
 
