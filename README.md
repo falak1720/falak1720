@@ -20,8 +20,6 @@
 
 <br>
 
-My name, **Falak**, means *sky* in Urdu. Fittingly, my research has taken me from a NASA Mars-mission simulation to 211 college students’ social media habits. I’m a psychology researcher training in **behavioral data science**: I like questions about people that can be answered with data, and answers that someone else can reproduce.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/console-dark.svg">
   <img alt="An R console typing out Falak's profile: now M.S. Data Science in Human Behavior at UW–Madison; before B.S. Psychology, Highest Honors, Michigan State; research in social media and confidence, multiteam systems, auditory timing and student wellbeing; toolkit R, Python, SPSS, Quarto; speaks Hindi, Urdu and English." src="assets/console-light.svg" width="100%">
@@ -95,11 +93,6 @@ My name, **Falak**, means *sky* in Urdu. Fittingly, my research has taken me fro
 
 ## 📂 Projects
 
-| Project | Question | Stack |
-|---|---|---|
-| [**falak-portfolio**](https://github.com/falak1720/falak-portfolio) · [live ↗](https://falak1720.github.io/falak-portfolio/) | My research portfolio and CV | HTML · CSS · JS |
-| [**five-sent**](https://github.com/falak1720/five-sent) · [live ↗](https://falak1720.github.io/five-sent/) | Does a book’s cover color predict its genre? A five-sentence paper using χ² | Python · Quarto |
-| [**ten-sent-corr**](https://github.com/falak1720/ten-sent-corr) | Does petal width track petal length? A correlation analysis | Python · seaborn · Quarto |
 
 <details>
 <summary><b>🎓 Certifications &amp; honors</b></summary>
