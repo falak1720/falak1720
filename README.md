@@ -20,6 +20,11 @@
   <a href="mailto:falak@wisc.edu"><img src="https://img.shields.io/badge/Email-falak@wisc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+## 📂 Projects
+<a href="https://falak1720.github.io/falak-portfolio/">falak-portfolio</a> is a dynamic version of my resume with links to my certificates and works.
+<br>
+
+<a href="https://falak1720.github.io/five-sent/">five-sent-chi2</a>, <a href="https://falak1720.github.io/ten-sent-sec/">ten_sent_sec</a> and <a href="https://falak1720.github.io/ten-sent-corr/">ten-sentence-corr</a> are for Psych 750.
 <br>
 
 <picture>
@@ -92,10 +97,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/stroop-dark.svg">
   <img alt="Stroop effect demo: color words flash in mismatched ink colors; try naming the ink color instead of reading the word" src="assets/stroop-light.svg" width="100%">
 </picture>
-
-## 📂 Projects
-<a href="https://falak1720.github.io/falak-portfolio/">falak-portfolio</a> is a dynamic version of my resume with links to my certificates and works.
-<br>
 
 
 <br>
