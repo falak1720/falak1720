@@ -14,7 +14,9 @@
 
 <p align="center">
   <a href="https://falak1720.github.io/falak-portfolio/"><img src="https://img.shields.io/badge/Portfolio-falak1720.github.io-2F5D9E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+<p align="center">
   <a href="https://www.linkedin.com/in/fnufalak"><img src="https://img.shields.io/badge/LinkedIn-fnufalak-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+<p align="center">
   <a href="mailto:falak@wisc.edu"><img src="https://img.shields.io/badge/Email-falak@wisc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -25,7 +27,7 @@
   <img alt="An R console typing out Falak's profile: now M.S. Data Science in Human Behavior at UW–Madison; before B.S. Psychology, Highest Honors, Michigan State; research in social media and confidence, multiteam systems, auditory timing and student wellbeing; toolkit R, Python, SPSS, Quarto; speaks Hindi, Urdu and English." src="assets/console-light.svg" width="100%">
 </picture>
 
-> [!TIP]
+
 > **Open to research assistant, lab coordinator & behavioral-data roles.** The fastest way to reach me is [falak@wisc.edu](mailto:falak@wisc.edu).
 
 ## 🔭 Research
@@ -48,8 +50,8 @@
         <img alt="Animated Mars with an orbiting habitat and a blinking mission-control panel" src="assets/card-nasa-light.svg" width="100%">
       </picture>
       <br>
-      Mission-control liaison for NASA’s <b>Human Exploration Research Analog</b> Mars simulation within FUSION, a NASA-funded study (#80NSSC23K1124) of interdependent multiteam systems.<br><br>
-      Managed crew communications and cross-department budget authorization during data collection.
+      Mission-control liaison for NASA’s <b>Human Exploration Research Analog</b> Mars simulation within FUSION, a NASA-funded study of interdependent multiteam systems.<br><br>
+      Was a part of crew communications and did cross-department budget authorization during data collection.
     </td>
     <td width="33%" valign="top">
       <picture>
@@ -57,8 +59,8 @@
         <img alt="Two animated tone bursts sliding together until they sound like one tone" src="assets/card-tones-light.svg" width="100%">
       </picture>
       <br>
-      Recruited participants and collected data for a psychoacoustics study at the <b>TAP Lab</b>, measuring the minimum time gap at which listeners hear two tones as distinct.<br><br>
-      <sub>Also: Army Research Institute project (coded 50+ audio recordings) and a 35+ article literature review on positive emotions and job search.</sub>
+      Under ARI (Army Research Institute) project coded 50+ audio recordings).<br><br>
+      As a research assistant found 35+ article literature review on positive emotions and job search.
     </td>
   </tr>
 </table>
@@ -81,7 +83,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="3.9 GPA with Highest Honors · 211 survey participants · 50+ recordings coded · 35+ articles reviewed · 5 research roles · 3 languages" src="assets/stats-light.svg" width="100%">
+  <img alt="3.9 GPA with Highest Honors · 211 survey participants · 50+ recordings coded · 35+ articles reviewed · 5 research roles" src="assets/stats-light.svg" width="100%">
 </picture>
 
 ## 🧠 A tiny experiment for you
@@ -92,9 +94,12 @@
 </picture>
 
 ## 📂 Projects
+<br>
+<a href="https://falak1720.github.io/falak-portfolio/">falak-portfolio</a>
+<br>
 
 
-<details>
+<br>
 <summary><b>🎓 Certifications &amp; honors</b></summary>
 
 <br>
@@ -106,16 +111,16 @@
 - **Highest Honors** and **Dean’s List every semester**, Michigan State University
 - **Rashtragaan participant**, Ministry of Culture, Government of India · 2021
 
-</details>
 
-<details>
+
+
 <summary><b>🤝 Beyond research</b></summary>
 
 <br>
 
 Resident Assistant for 40+ students · TA for *PSY 295: Data Analysis in Psychological Research* · English tutor (BRIDGES) · SpartanFit wellness mentor · Founding Growth & Marketing Strategist at SheVinci · Event Coordinator, Brown Girl Health Club · Inner Wheel Club volunteer
 
-</details>
+
 
 <br>
 
