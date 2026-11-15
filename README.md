@@ -1,7 +1,7 @@
 <a href="https://falak1720.github.io/falak-portfolio/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img alt="Falak (فلک, Urdu for 'sky'): Psychology × Behavioral Data Science. M.S. at UW–Madison; B.S. Psychology, Highest Honors, Michigan State; NASA HERA mission control." src="assets/header-light.svg" width="100%">
+    <img alt="Falak (فلک, Urdu for 'sky'): Psychology × Behavioral Data Science. M.S. at UW–Madison; B.S. Psychology, Highest Honors, Michigan State" src="assets/header-light.svg" width="100%">
   </picture>
 </a>
 
