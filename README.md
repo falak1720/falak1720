@@ -101,7 +101,7 @@
 
 
 <br>
-<summary><b>🎓 **Certifications &amp; honors** </b></summary>
+<summary><b>🎓 Certifications &amp; honors </b></summary>
 
 <br>
 
@@ -115,7 +115,7 @@
 
 
 
-<summary><b> **Beyond research** </b></summary>
+<summary><b> Beyond research </b></summary>
 
 <br>
 
