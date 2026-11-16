@@ -119,13 +119,13 @@
 
 <br>
 
-· Resident Assistant for 40+ students 
-· TA for *PSY 295: Data Analysis in Psychological Research* 
-· English tutor (BRIDGES) 
-· SpartanFit wellness mentor 
-· Founding Growth & Marketing Strategist at SheVinci 
-· Event Coordinator, Brown Girl Health Club 
-· Inner Wheel Club volunteer
+· Resident Assistant for 40+ students <br>
+· TA for *PSY 295: Data Analysis in Psychological Research* <br>
+· English tutor (BRIDGES) <br>
+· SpartanFit wellness mentor <br>
+· Founding Growth & Marketing Strategist at SheVinci <br>
+· Event Coordinator, Brown Girl Health Club <br>
+· Inner Wheel Club volunteer <br>
 
 
 
