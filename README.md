@@ -90,9 +90,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stroop-dark.svg">
-  <img alt="Stroop effect demo: color words flash in mismatched ink colors; try naming the ink color instead of reading the word" src="assets/stroop-light.svg" width="70%">
+    <img alt="Stroop effect demo: color words flash in mismatched ink colors; try naming the ink color instead of reading the word" src="assets/stroop-light.svg" width="100%"> 
 </picture>
-
 
 <br>
 <details>
