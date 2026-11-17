@@ -85,18 +85,12 @@
   <img alt="Toolkit in orbit: R, Python, Quarto, SPSS, Git, GitHub, Jupyter, pandas, LaTeX, Qualtrics" src="assets/toolkit-light.svg" width="100%">
 </picture>
 
-## 📊 By the numbers
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="3.9 GPA with Highest Honors · 211 survey participants · 50+ recordings coded · 35+ articles reviewed · 5 research roles" src="assets/stats-light.svg" width="100%">
-</picture>
 
 ## 🧠 A tiny experiment for you
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stroop-dark.svg">
-  <img alt="Stroop effect demo: color words flash in mismatched ink colors; try naming the ink color instead of reading the word" src="assets/stroop-light.svg" width="100%">
+  <img alt="Stroop effect demo: color words flash in mismatched ink colors; try naming the ink color instead of reading the word" src="assets/stroop-light.svg" width="70%">
 </picture>
 
 
