@@ -101,8 +101,9 @@
 
 
 <br>
+<details>
 <summary><b>🎓 Certifications &amp; honors </b></summary>
-
+<p>
 <br>
 
 - **Responsible Conduct of Research (RCR)**, CITI Program / MSU · 2025
@@ -112,11 +113,12 @@
 - **Highest Honors** and **Dean’s List every semester**, Michigan State University
 - **Rashtragaan participant**, Ministry of Culture, Government of India · 2021
 
+</p>
+</details>
 
-
-
+<details>
 <summary><b> 🧐 Beyond research </b></summary>
-
+<p>
 <br>
 
 · Resident Assistant for 40+ students <br>
@@ -127,7 +129,8 @@
 · Event Coordinator, Brown Girl Health Club <br>
 · Inner Wheel Club volunteer <br>
 
-
+</p>
+</details>
 
 <br>
 
